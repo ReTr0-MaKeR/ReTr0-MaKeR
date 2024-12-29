@@ -3,9 +3,9 @@ Welcome to my profile! I'm a passionate Electrical and Electronic Engineering (E
 
 
 ## 🔭 I’m currently working on:
-*🛠️ PCB Design and Validation: Ensuring robust and efficient layouts for embedded systems.
-*📡 GPS Modules: Integrating and optimizing existing GPS modules for precise location tracking.
-*📶 LoRa Connectivity: Implementing long-range, low-power communication for IoT and automation projects.
+* 🛠️ PCB Design and Validation: Ensuring robust and efficient layouts for embedded systems.
+* 📡 GPS Modules: Integrating and optimizing existing GPS modules for precise location tracking.
+* 📶 LoRa Connectivity: Implementing long-range, low-power communication for IoT and automation projects.
 
 ## 🌱 I’m currently learning:
 I’m diving deep into machine learning and exploring its applications in signal processing and control systems. Additionally, I’m enhancing my knowledge of embedded systems programming and IoT architecture.
