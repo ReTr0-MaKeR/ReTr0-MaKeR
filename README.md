@@ -21,6 +21,7 @@ I’m currently researching ways to optimize power management for embedded syste
 * Robotics competitions and how to build a competitive robot.
 * Circuit design and troubleshooting for electronics projects.
 * PCB layout best practices for efficient and effective designs.
+  
 ## 📫 How to reach me:
 Feel free to connect with me via LinkedIn or shoot me an email at tanvirhassan1201@gmail.com .
 
@@ -43,12 +44,12 @@ I built my first autonomous robot at the age of 15! It could navigate through a 
 * Web-Controlled Robotic Car: Integrated ESP32 for seamless web-based control and automation.
 * Transformer Protection System: Designed and implemented an overcurrent and overheat protection system for transformers using real-time monitoring.
 * People Counting with Fan Control: Created an automated system combining sensors, LCDs, and microcontrollers to optimize energy usage in rooms.
-Let’s Build Something Awesome Together 🚀
-I believe in the power of collaboration and sharing knowledge. If you have an idea, project, or challenge in the world of engineering or technology, let’s connect and create something impactful.
+
 
 ## 🌐 Check out my work and more on My Website!
 https://sites.google.com/diu.edu.bd/tanvir-0
 
-
+## 🚀 Let’s Build Something Awesome Together 
+I believe in the power of collaboration and sharing knowledge. If you have an idea, project, or challenge in the world of engineering or technology, let’s connect and create something impactful.
 
 
