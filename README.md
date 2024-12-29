@@ -20,7 +20,7 @@ Robotics competitions and how to build a competitive robot.
 Circuit design and troubleshooting for electronics projects.
 PCB layout best practices for efficient and effective designs.
 ## 📫 How to reach me:
-Feel free to connect with me via LinkedIn or shoot me an email at [your-email@example.com].
+Feel free to connect with me via LinkedIn or shoot me an email at tanvirhassan1201@gmail.com .
 
 ## 😄 Pronouns: 
 He/Him
