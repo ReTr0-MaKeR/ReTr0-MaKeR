@@ -8,7 +8,7 @@ Welcome to my profile! I'm a passionate Electrical and Electronic Engineering (E
 * 📶 LoRa Connectivity: Implementing long-range, low-power communication for IoT and automation projects.
 
 ## 🌱 I’m currently learning:
-I’m diving deep into machine learning and exploring its applications in signal processing and control systems. Additionally, I’m enhancing my knowledge of embedded systems programming and IoT architecture.
+I’m diving deep into machine learning, VLSI, PID/Fuzzy logic based control systems. Additionally, I’m enhancing my knowledge of embedded systems programming and IoT architecture.
 
 ## 👯 I’m looking to collaborate on:
 I’m eager to team up on open-source hardware projects, particularly in the fields of robotics, IoT-based home automation, and renewable energy solutions. If you have an exciting idea, let’s bring it to life together!
@@ -18,9 +18,9 @@ I’m currently researching ways to optimize power management for embedded syste
 
 ## 💬 Ask me about:
 
-Robotics competitions and how to build a competitive robot.
-Circuit design and troubleshooting for electronics projects.
-PCB layout best practices for efficient and effective designs.
+* Robotics competitions and how to build a competitive robot.
+* Circuit design and troubleshooting for electronics projects.
+* PCB layout best practices for efficient and effective designs.
 ## 📫 How to reach me:
 Feel free to connect with me via LinkedIn or shoot me an email at tanvirhassan1201@gmail.com .
 
@@ -33,14 +33,16 @@ I built my first autonomous robot at the age of 15! It could navigate through a 
 ## Projects and Achievements
 ## 🏆 Achievements:
 
-Multiple wins in robotics competitions, including designing award-winning autonomous systems.
-Recognition in national science fairs for innovative approaches to engineering problems.
-Conducted successful workshops on robotics and electronics as the Training Secretary of DIURC.
+* Multiple wins in robotics competitions, including designing award-winning IoT systems.
+* Recognition in national science fairs for innovative approaches to engineering problems.
+* Conducted successful workshops on robotics and electronics as the Training Secretary of DIURC.
+* Organized & Helped to conduct workshops on robotics and electronics as the Asst. Training Secretary of DIURC.
 ## 💡 Notable Projects:
-
-Web-Controlled Robotic Car: Integrated ESP32 for seamless web-based control and automation.
-Transformer Protection System: Designed and implemented an overcurrent and overheat protection system for transformers using real-time monitoring.
-People Counting with Fan Control: Created an automated system combining sensors, LCDs, and microcontrollers to optimize energy usage in rooms.
+* Wrist Werable Healthcare Assistant
+* Tiny Weather Station
+* Web-Controlled Robotic Car: Integrated ESP32 for seamless web-based control and automation.
+* Transformer Protection System: Designed and implemented an overcurrent and overheat protection system for transformers using real-time monitoring.
+* People Counting with Fan Control: Created an automated system combining sensors, LCDs, and microcontrollers to optimize energy usage in rooms.
 Let’s Build Something Awesome Together 🚀
 I believe in the power of collaboration and sharing knowledge. If you have an idea, project, or challenge in the world of engineering or technology, let’s connect and create something impactful.
 
