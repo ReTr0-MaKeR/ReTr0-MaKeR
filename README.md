@@ -1,9 +1,11 @@
 ## Hi there, I'm Md. Tanvir Hassan 👋
 Welcome to my profile! I'm a passionate Electrical and Electronic Engineering (EEE) student with a knack for innovation, creativity, and problem-solving. My journey in the world of engineering started with a deep fascination for circuits and robotics, which has since evolved into a relentless drive to develop cutting-edge solutions in embedded systems, automation, and renewable energy.
 
-About Me
+
 ## 🔭 I’m currently working on:
-I'm developing advanced robotics systems that combine AI-driven algorithms with real-time decision-making for autonomous navigation. My focus lies in making systems efficient, reliable, and user-friendly.
+*🛠️ PCB Design and Validation: Ensuring robust and efficient layouts for embedded systems.
+*📡 GPS Modules: Integrating and optimizing existing GPS modules for precise location tracking.
+*📶 LoRa Connectivity: Implementing long-range, low-power communication for IoT and automation projects.
 
 ## 🌱 I’m currently learning:
 I’m diving deep into machine learning and exploring its applications in signal processing and control systems. Additionally, I’m enhancing my knowledge of embedded systems programming and IoT architecture.
